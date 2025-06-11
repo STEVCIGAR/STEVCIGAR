@@ -124,7 +124,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="https://cv-jonathan-jaramillo.vercel.app"><img src="https://img.icons8.com/ultraviolet/2x/resume.png" alt="Curriculum"/></a>
+	<a href="https://stevcigar.github.io/CV-Jonathan-Jaramillo/"><img src="https://img.icons8.com/ultraviolet/2x/resume.png" alt="Curriculum"/></a>
 	<a href="https://github.com/STEVCIGAR"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jonathan-steven-j-8b566491/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
