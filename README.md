@@ -1,23 +1,15 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=HELLO+WORLD!">
+
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Jonathan+Jaramillo&center=true&color="7AF79A")
 
-<div align="center">
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Developer+Backend&color=7AF79A&size=30&duration=3000&lines=Hey!+It's+Stev!;Developer+passionate+...;Backend-focused;Building+web+apps;Turning+ideas;Always+learning)](https://git.io/typing-svg)
-
-<details>
-<summary>About me</summary>
-
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
 <div align="left">
 
@@ -25,10 +17,9 @@
 
 </div>
 
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
-<details>
-<summary>Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -99,28 +90,17 @@
     </kbd>
   </p>
 </div>
-</details>
+<br>
+      <br>
 
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
+  ### 📊 Profile stats
   <h1 align="center"></h1>
     <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=stevcigar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
     <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevcigar&layout=compact&theme=aura&langs_count=9" />
     <img height="150" />
     </br></br>
-    </br></br>
-    </br></br>
-    </br></br>
-</details>
 
 
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
